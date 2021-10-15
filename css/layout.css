@@ -117,8 +117,11 @@ header .scrolldown a {
 }
 header .scrolldown a:hover { color: #11ABB0; }
 
+/* overwrite some features of bg canvas if needed*/
 .particles-bg-canvas-self{
    background: #000;
+   position: absolute;
+   display: block;
  }
 
 /* primary navigation
