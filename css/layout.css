@@ -33,9 +33,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/header-background.jpg) no-repeat top center;
-   background-size: cover !important;
-	-webkit-background-size: cover !important;
+   background: #ffffff; /* 161415 url(../images/header-background.jpg) no-repeat top center; */
    text-align: center;
    overflow: hidden;
 }
@@ -118,6 +116,10 @@ header .scrolldown a {
    transition: all .3s ease-in-out;
 }
 header .scrolldown a:hover { color: #11ABB0; }
+
+.particles-bg-canvas-self{
+   background: #000;
+ }
 
 /* primary navigation
 --------------------------------------------------------------------- */
