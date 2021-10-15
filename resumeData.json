@@ -38,36 +38,36 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Northwestern University",
+        "degree": "Computer Science Engineering and Film",
+        "graduated": "Current Senior",
+        "description": "My time at school has been focused on finding the intersection between modern computing technology and artistic design in the film scene, working with low and high level programming languages and blending those skills with sound engineering"
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Center for Robotics and Biosystems at Northwestern",
+        "title": "Research Assistant",
+        "years": "February 2021 — Present",
+        "description": "Performed research under the direction of Dr. Malcolm MacIver and a small team of PhD candidates and undergraduates, regarding a novel investigation in the field of cognitive behavioral neuroscience with rodents. Required a rapid acquisition of new skills in both hardware and software applications of wireless communications, microchip building and testing, as well as 3D modeling and robot design, and discussion and utilization of high-level academic papers in neuroscience, robotics, and machine learning. Currently working on a research contribution in rodent recording with high-frequency microphones and spectrographic analysis to decipher additional information on mouse state during experimentation."
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "SUGARED + BRONZED",
+        "title": "Lead Software Engineer",
+        "years": "2014—2020",
+        "description": "Working in both part and full time positions, built and released a mobile app (SUGARED + BRONZED on the Apple App Store [~1k Weekly Average Users]), as well as an e-commerce and booking website (sugaredandbronzed.com), an automated customer registration system (utilizing Smartwaiver and Booker API backends), as well as contribution to graphic design. To successfully orchestrate these programs, utilized a working knowledge of PHP, Swift, HTML/CSS, NodeJS, Wordpress, and AWS technologies."
+      },
+      {
+        "company": "Wonder Payments",
+        "title": "Software Intern",
+        "years": "Summer 2018",
+        "description": "Worked intermittently with a small team of programmers and independently, updated and debugged the Wonder iOS App, learned and used several technologies to create helper apps including Docker, Zapier, Slack, and AWS Lambda Headless Servers, working interchangeably in PHP, Python, and Swift. Additionally, lead the Wonder team to an integration with SUGARED + BRONZED in order to provide clients with real time rewards for purchases."
       }
     ],
     "skills": [
       {
         "name": "Git",
-        "level": "60%"
+        "level": "100%"
       },
       {
         "name": "Illustrator",
@@ -98,34 +98,28 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "SUGARED + BRONZED online",
+        "category": "An e-commerce and booking platform for web users",
+        "image": "sbonline.png",
+        "url": "www.sugaredandbronzed.com"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "SUGARED + BRONZED iOS App",
+        "category": "An iOS booking experience for customer retention and ease-of-use",
+        "image": "sbios.png",
+        "url": "https://apps.apple.com/us/app/s-b/id1436528500"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "https://thirdcoaststitches.com/",
+        "category": "An online shopping resource for a chic new needlepoint startup",
+        "image": "thirdcoast.png",
+        "url": "https://thirdcoaststitches.com/"
       },
       {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "title": "http://remediumcandle.com/",
+        "category": "A simple and elegant e-commerce website for RE'ME.DI.UM candle",
+        "image": "remedium.png",
+        "url": "http://remediumcandle.com/"
       }
     ]
   }
