@@ -1,10 +1,10 @@
 {
   "main": {
-    "name": "Parker",
+    "name": "Anthony Parker Ryan",
     "occupation": "Software Engineer",
-    "description": "I'm also a sound designer, botanist, chef, mycologist, actor, and aspiring Daffy Duck impersonator -- qqqqwakkkk",
+    "description": "I'm also a sound designer, aspiring mycologist, UX designer, and Marvel aficionado",
     "image": "profilepic.jpg",
-    "bio": "Write bio here",
+    "bio": "",
     "contactmessage": "Interested in my work? Reach out and say hello!",
     "email": "contact.parkerryan@gmail.com",
     "phone": "949-283-1190",
@@ -15,7 +15,7 @@
       "zip": "60201"
     },
     "website": "http://www.parkerryan.work",
-    "resumedownload": "http://www.parkerryan.work",
+    "resumedownload": "https://drive.google.com/file/d/1un43vfKaBMuqPWneoQ-oHx46X7otdWxG/view",
     "social": [
       {
         "name": "facebook",
@@ -35,12 +35,12 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "While working on various projects, I've rapidly picked up a variety of skills - some more in-depth than others, and most backed up by formal education as well!",
     "education": [
       {
         "school": "Northwestern University",
-        "degree": "Computer Science Engineering and Film",
-        "graduated": "Current Senior",
+        "degree": "BS in Computer Science Engineering and Film",
+        "graduated": "Senior Undergraduate",
         "description": "My time at school has been focused on finding the intersection between modern computing technology and artistic design in the film scene, working with low and high level programming languages and blending those skills with sound engineering"
       }
     ],
@@ -66,57 +66,61 @@
     ],
     "skills": [
       {
-        "name": "Git",
-        "level": "100%"
+        "name": "HTML5 & CSS",
+        "level": "90%"
       },
       {
-        "name": "Illustrator",
-        "level": "55%"
+        "name": "C/C++",
+        "level": "70%"
+      },
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "Swift",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "100%"
       },
       {
         "name": "ReactJs",
         "level": "50%"
       },
       {
-        "name": "CSS",
+        "name": "Onshape 3D",
         "level": "90%"
       },
       {
-        "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "VueJs",
+        "name": "Max MSP",
         "level": "50%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "SUGARED + BRONZED online",
+        "title": "S+B Online",
         "category": "An e-commerce and booking platform for web users",
         "image": "sbonline.png",
         "url": "www.sugaredandbronzed.com"
       },
       {
-        "title": "SUGARED + BRONZED iOS App",
+        "title": "S+B iOS",
         "category": "An iOS booking experience for customer retention and ease-of-use",
         "image": "sbios.png",
         "url": "https://apps.apple.com/us/app/s-b/id1436528500"
       },
       {
-        "title": "https://thirdcoaststitches.com/",
+        "title": "Third Coast Stiches",
         "category": "An online shopping resource for a chic new needlepoint startup",
         "image": "thirdcoast.png",
         "url": "https://thirdcoaststitches.com/"
       },
       {
-        "title": "http://remediumcandle.com/",
+        "title": "RE'ME.DI.UM",
         "category": "A simple and elegant e-commerce website for RE'ME.DI.UM candle",
         "image": "remedium.png",
         "url": "http://remediumcandle.com/"
