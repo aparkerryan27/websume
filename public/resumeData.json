@@ -1,0 +1,131 @@
+{
+  "main": {
+    "name": "Anthony Parker Ryan",
+    "occupation": "Software Engineer",
+    "description": "I'm also a sound designer, aspiring mycologist, UX designer, and Marvel aficionado",
+    "image": "profilepic.jpg",
+    "bio": "",
+    "contactmessage": "Interested in my work? Feel free to reach out and say hello!",
+    "email": "contact.parkerryan@gmail.com",
+    "phone": "949-283-1190",
+    "address": {
+      "street": "1615 Ridge Ave. Apt J1",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60201"
+    },
+    "website": "http://www.parkerryan.work",
+    "resumedownload": "https://drive.google.com/file/d/1un43vfKaBMuqPWneoQ-oHx46X7otdWxG/view",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/anthony.ryan.98478/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/parker-r-7364a7b8/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/aparkerryan27",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "While building solutions at work, at school, or on hobby projects, I've rapidly picked up a variety of skills - in a variety of depths!",
+    "education": [
+      {
+        "school": "Northwestern University",
+        "degree": "BS in Computer Science Engineering and Film",
+        "graduated": "Senior Undergraduate",
+        "description": "My time at school has been focused on finding the intersection between modern computing technology and artistic design in the film scene, working with low and high level programming languages and blending those skills with sound engineering"
+      }
+    ],
+    "work": [
+      {
+        "company": "Center for Robotics and Biosystems at Northwestern",
+        "title": "Research Assistant",
+        "years": "February 2021 — Present",
+        "description": "Performed research under the direction of Dr. Malcolm MacIver and a small team of PhD candidates and undergraduates, regarding a novel investigation in the field of cognitive behavioral neuroscience with rodents. Required a rapid acquisition of new skills in both hardware and software applications of wireless communications, microchip building and testing, as well as 3D modeling and robot design, and discussion and utilization of high-level academic papers in neuroscience, robotics, and machine learning. Currently working on a research contribution in rodent recording with high-frequency microphones and spectrographic analysis to decipher additional information on mouse state during experimentation."
+      },
+      {
+        "company": "SUGARED + BRONZED",
+        "title": "Lead Software Engineer",
+        "years": "2014—2020",
+        "description": "Working in both part and full time positions, built and released a mobile app (SUGARED + BRONZED on the Apple App Store [~1k Weekly Average Users]), as well as an e-commerce and booking website (sugaredandbronzed.com), an automated customer registration system (utilizing Smartwaiver and Booker API backends), as well as contribution to graphic design. To successfully orchestrate these programs, utilized a working knowledge of PHP, Swift, HTML/CSS, NodeJS, Wordpress, and AWS technologies."
+      },
+      {
+        "company": "Wonder Payments",
+        "title": "Software Intern",
+        "years": "Summer 2018",
+        "description": "Worked intermittently with a small team of programmers and independently, updated and debugged the Wonder iOS App, learned and used several technologies to create helper apps including Docker, Zapier, Slack, and AWS Lambda Headless Servers, working interchangeably in PHP, Python, and Swift. Additionally, lead the Wonder team to an integration with SUGARED + BRONZED in order to provide clients with real time rewards for purchases."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5 & CSS",
+        "level": "90%"
+      },
+      {
+        "name": "C/C++",
+        "level": "70%"
+      },
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "Swift",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "100%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "Onshape 3D",
+        "level": "90%"
+      },
+      {
+        "name": "Max MSP",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "S+B Online",
+        "category": "An e-commerce and booking platform for web users",
+        "image": "sbonline.png",
+        "url": "www.sugaredandbronzed.com"
+      },
+      {
+        "title": "S+B iOS",
+        "category": "An iOS booking experience for customer retention and ease-of-use",
+        "image": "sbios.png",
+        "url": "https://apps.apple.com/us/app/s-b/id1436528500"
+      },
+      {
+        "title": "Third Coast Stiches",
+        "category": "An online shopping resource for a chic new needlepoint startup",
+        "image": "thirdcoast.png",
+        "url": "https://thirdcoaststitches.com/"
+      },
+      {
+        "title": "RE'ME.DI.UM",
+        "category": "A simple and elegant e-commerce website for RE'ME.DI.UM candle",
+        "image": "remedium.png",
+        "url": "http://remediumcandle.com/"
+      }
+    ]
+  }
+  
+}
