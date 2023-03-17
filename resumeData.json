@@ -66,64 +66,53 @@
     ],
     "skills": [
       {
-        "name": "HTML5 & CSS",
-        "level": "90%"
-      },
-      {
         "name": "C/C++",
         "level": "70%"
       },
       {
         "name": "Python",
         "level": "60%"
-      },
-      {
-        "name": "Swift",
-        "level": "90%"
-      },
-      {
-        "name": "Git",
-        "level": "100%"
-      },
-      {
-        "name": "ReactJs",
-        "level": "50%"
-      },
-      {
-        "name": "Onshape 3D",
-        "level": "90%"
-      },
-      {
-        "name": "Max MSP",
-        "level": "50%"
       }
+
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "S+B Online",
-        "category": "An e-commerce and booking platform for web users",
+        "title": "CricketBot",
+        "description": "A robotic prey for testing biologically feasible evasive planning",
+        "image": "cricketbot.png",
+        "url": "x"
+      },
+      {
+        "title": "Autonomous Drone",
+        "description": "A test build of a drone research paper on Vive localization",
+        "image": "drone.png",
+        "url": "https://github.com/aparkerryan27/mini_drone"
+      },
+      {
+        "title": "Lightwave",
+        "description": "A popup lighting system for audiovisual synthesized performance",
+        "image": "lights.png",
+        "url": "https://github.com/aparkerryan27/lightwave"
+      },
+      {
+        "title": "BEWI",
+        "description": "A musical pipe for aspiring ambient musicians",
+        "image": "bewi.png",
+        "url": "https://aparkerryan27.github.io/bewi/"
+      },
+      {
+        "title": "S+B Web",
+        "description": "An e-commerce and booking platform for web users",
         "image": "sbonline.png",
         "url": "www.sugaredandbronzed.com"
       },
       {
         "title": "S+B iOS",
-        "category": "An iOS booking experience for customer retention and ease-of-use",
+        "description": "An iOS booking experience for customer retention and ease-of-use",
         "image": "sbios.png",
         "url": "https://apps.apple.com/us/app/s-b/id1436528500"
-      },
-      {
-        "title": "Third Coast Stiches",
-        "category": "An online shopping resource for a chic new needlepoint startup",
-        "image": "thirdcoast.png",
-        "url": "https://thirdcoaststitches.com/"
-      },
-      {
-        "title": "RE'ME.DI.UM",
-        "category": "A simple and elegant e-commerce website for RE'ME.DI.UM candle",
-        "image": "remedium.png",
-        "url": "http://remediumcandle.com/"
       }
     ]
   }
