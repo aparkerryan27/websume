@@ -82,7 +82,7 @@
         "title": "CricketBot",
         "description": "A robotic prey for testing biologically feasible evasive planning",
         "image": "cricketbot.png",
-        "url": "x"
+        "url": "https://github.com/aparkerryan27/cricketbot"
       },
       {
         "title": "Autonomous Drone",
@@ -106,7 +106,7 @@
         "title": "S+B Web",
         "description": "An e-commerce and booking platform for web users",
         "image": "sbonline.png",
-        "url": "www.sugaredandbronzed.com"
+        "url": "http://www.sugaredandbronzed.com"
       },
       {
         "title": "S+B iOS",
