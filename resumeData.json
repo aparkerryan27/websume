@@ -2,17 +2,17 @@
   "main": {
     "name": "Anthony Parker Ryan",
     "occupation": "Software Engineer",
-    "description": "I'm also a sound designer, aspiring mycologist, UX designer, and Marvel aficionado",
+    "description": "I'm also a sound designer, aspiring mycologist, UX designer, and sci-fi aficionado (of course).",
     "image": "profilepic.jpg",
     "bio": "",
     "contactmessage": "Interested in my work? Feel free to reach out and say hello!",
     "email": "contact.parkerryan@gmail.com",
     "phone": "949-283-1190",
     "address": {
-      "street": "1615 Ridge Ave. Apt J1",
+      "street": "4118 N Kenmore",
       "city": "Chicago",
       "state": "IL",
-      "zip": "60201"
+      "zip": "60613"
     },
     "website": "http://www.parkerryan.work",
     "resumedownload": "https://drive.google.com/file/d/1un43vfKaBMuqPWneoQ-oHx46X7otdWxG/view",
@@ -39,9 +39,9 @@
     "education": [
       {
         "school": "Northwestern University",
-        "degree": "BS in Computer Science Engineering and Film",
-        "graduated": "Senior Undergraduate",
-        "description": "My time at school has been focused on finding the intersection between modern computing technology and artistic design in the film scene, working with low and high level programming languages and blending those skills with sound engineering"
+        "degree": "BS in Computer Science Engineering",
+        "graduated": "2018-2023",
+        "description": ""
       }
     ],
     "work": [
@@ -49,18 +49,18 @@
         "company": "Center for Robotics and Biosystems at Northwestern",
         "title": "Research Assistant",
         "years": "February 2021 — Present",
-        "description": "Performed research under the direction of Dr. Malcolm MacIver and a small team of PhD candidates and undergraduates, regarding a novel investigation in the field of cognitive behavioral neuroscience with rodents. Required a rapid acquisition of new skills in both hardware and software applications of wireless communications, microchip building and testing, as well as 3D modeling and robot design, and discussion and utilization of high-level academic papers in neuroscience, robotics, and machine learning. Currently working on a research contribution in rodent recording with high-frequency microphones and spectrographic analysis to decipher additional information on mouse state during experimentation."
+        "description": "Designed and rapid prototyped robotic agents and control systems using wireless communications with ESP32 BLE and Wi-Fi, as well as localization with machine vision and control theory implemented in C/C++. \nTrained and managed a team of undergraduate researchers in novel software tool and CAD modeling projects. \nPerformed and analyzed experiments on live mice and robotic agents, involving hardware (PCB design and soldering) & software (networking and computer vision) debugging, as well as vocal spectrographic analysis"
       },
       {
         "company": "SUGARED + BRONZED",
-        "title": "Lead Software Engineer",
-        "years": "2014—2020",
-        "description": "Working in both part and full time positions, built and released a mobile app (SUGARED + BRONZED on the Apple App Store [~1k Weekly Average Users]), as well as an e-commerce and booking website (sugaredandbronzed.com), an automated customer registration system (utilizing Smartwaiver and Booker API backends), as well as contribution to graphic design. To successfully orchestrate these programs, utilized a working knowledge of PHP, Swift, HTML/CSS, NodeJS, Wordpress, and AWS technologies."
+        "title": "Software Engineer",
+        "years": "2017—2021",
+        "description": "Cultivated $500k/year of online sales after launching an e-commerce site and fulfillment center during first month of coronavirus lockdown, working across teams to transition software from service to product sales. \nConstructed a booking and membership management app in Swift for iOS and React for web ~125k MAU. \nIncreased employee utilization rate by 20% by bringing together customer service teams’ workflows through custom automation in PHP and Python to reduce repetition and eliminate error-prone employee processes"
       },
       {
         "company": "Wonder Payments",
         "title": "Software Intern",
-        "years": "Summer 2018",
+        "years": "Summer 2017",
         "description": "Worked intermittently with a small team of programmers and independently, updated and debugged the Wonder iOS App, learned and used several technologies to create helper apps including Docker, Zapier, Slack, and AWS Lambda Headless Servers, working interchangeably in PHP, Python, and Swift. Additionally, lead the Wonder team to an integration with SUGARED + BRONZED in order to provide clients with real time rewards for purchases."
       }
     ],
