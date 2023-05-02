@@ -49,7 +49,7 @@
         "company": "Center for Robotics and Biosystems at Northwestern",
         "title": "Research Assistant",
         "years": "February 2021 — Present",
-        "description": "Designed and rapid prototyped robotic agents and control systems using wireless communications with ESP32 BLE and Wi-Fi, as well as localization with machine vision and control theory implemented in C/C++. \nTrained and managed a team of undergraduate researchers in novel software tool and CAD modeling projects. \nPerformed and analyzed experiments on live mice and robotic agents, involving hardware (PCB design and soldering) & software (networking and computer vision) debugging, as well as vocal spectrographic analysis"
+        "description": "Designed and rapid prototyped robotic agents and control systems using wireless communications with ESP32 BLE and Wi-Fi, as well as localization with machine vision and control theory implemented in C/C++. \nTrained and managed a team of undergraduate researchers in novel software tools and CAD modeling projects. \nPerformed and analyzed experiments on live mice and robotic agents, involving hardware (PCB design and soldering) & software (networking and computer vision) debugging, as well as vocal spectrographic analysis"
       },
       {
         "company": "SUGARED + BRONZED",
@@ -95,12 +95,6 @@
         "description": "A popup lighting system for audiovisual synthesized performance",
         "image": "lights.png",
         "url": "https://github.com/aparkerryan27/lightwave"
-      },
-      {
-        "title": "BEWI",
-        "description": "A musical pipe for aspiring ambient musicians",
-        "image": "bewi.png",
-        "url": "https://aparkerryan27.github.io/bewi/"
       },
       {
         "title": "S+B Web",
