@@ -54,9 +54,6 @@ class Hero extends Component {
        
 
         <ParticlesBg type="custom" config={config} bg={{ top:0, left: 0, right: 0}} />
-        <p className="scrolldown">
-            <a className="smoothscroll" href="#about"><i className="icon-down-circle"></i></a>
-        </p>
         <div className="banner">
             <div className = "banner-text"> 
                 <h1 className="responsive-headline">Hi! I'm Parker.</h1>
